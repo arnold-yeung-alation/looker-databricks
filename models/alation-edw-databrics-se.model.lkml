@@ -1,4 +1,4 @@
-connection: "edw-se-databricks"
+connection: "edw-databricks-se"
 
 # include all the views
 include: "/views/**/*.view.lkml"

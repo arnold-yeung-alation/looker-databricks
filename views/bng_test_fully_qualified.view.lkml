@@ -1,5 +1,5 @@
 view: bng_test_fully_qualified {
-  sql_table_name: finance.bng_test_fully_qualified ;;
+  sql_table_name: finance_catalog.finance.bng_test_fully_qualified ;;
   suggestions: no
 
   dimension: cty {
